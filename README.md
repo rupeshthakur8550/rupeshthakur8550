@@ -50,9 +50,8 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="center">
-
 # 📊 GitHub Stats:
+<div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rupeshthakur8550&theme=onedark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshthakur8550&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
@@ -64,9 +63,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rupeshthakur8550&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  
+
 ### ✍️ Random Dev Quote
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
