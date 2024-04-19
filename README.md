@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rupesh Thakur</h1>
 <h3 align="center">Aspiring Software Full Stack Developer and Web Full Stack Developer</h3>
 
+<div align-"center">
 # 💫 About Me:
 - 🌱 I’m currently learning **React Js, Node js, Express Js, MangoDB**<br/>
 - 💬 Ask me about **React Js, Node Js, Express Js, JavaScript, Java**<br/>
 - 📫 How to reach me **rupeshthakur80078@gmail.com**<br/>
 - 📄 Know about my experiences [Resueme Link (Click Here)](https://drive.google.com/file/d/1gEzlbtT03ktG8jvE9MtDG86f4lmMfGMT/view?usp=drive_link)<br/>
 - ⚡ Fun fact **I can make Environment Happy and Fresh**
+
+</div>
 
 
 ## 🌐 Socials:
@@ -61,13 +64,20 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rupeshthakur8550&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
+<div align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rupeshthakur8550&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rupeshthakur8550&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
