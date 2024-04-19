@@ -47,6 +47,15 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+# Coading IDE's:
+<div align="center">
+
+- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code
+- <img src="https://img.icons8.com/windows/32/000000/eclipse.png"/> Eclipse IDE
+- <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> PyCharm
+
+</div>
+
 # 📊 GitHub Stats:
 <div align="center">
 
