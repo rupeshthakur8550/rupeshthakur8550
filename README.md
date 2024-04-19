@@ -60,11 +60,11 @@
 </div>
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=rupeshthakur8550&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=rupeshthakur8550&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
