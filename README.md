@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **React Js, Node js, Express Js, MangoDB**<br><br>- 💬 Ask me about **React Js, Node Js, Express Js, JavaScript, Java**<br><br>- 📫 How to reach me **rupeshthakur80078@gmail.com**<br><br>- 📄 Know about my experiences [Resueme Link (Click Here)](https://drive.google.com/file/d/1gEzlbtT03ktG8jvE9MtDG86f4lmMfGMT/view?usp=drive_link)<br><br>- ⚡ Fun fact **I can make Environment Happy and Fresh**
+- 🌱 I’m currently learning **React Js, Node js, Express Js, MangoDB**<br/>
+- 💬 Ask me about **React Js, Node Js, Express Js, JavaScript, Java**<br/>
+- 📫 How to reach me **rupeshthakur80078@gmail.com**<br/>
+- 📄 Know about my experiences [Resueme Link (Click Here)](https://drive.google.com/file/d/1gEzlbtT03ktG8jvE9MtDG86f4lmMfGMT/view?usp=drive_link)<br/>
+- ⚡ Fun fact **I can make Environment Happy and Fresh**
 
 
 ## 🌐 Socials:
