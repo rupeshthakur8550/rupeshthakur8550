@@ -49,9 +49,9 @@
 
 # Coading IDE's:
 
-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code
-- <img src="https://img.icons8.com/windows/32/000000/eclipse.png"/> Eclipse IDE
-- <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> PyCharm
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 # 📊 GitHub Stats:
 <div align="center">
