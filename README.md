@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupesh Thakur</h1>
-<h3 align="center">Aspiring Software Full Stack Developer and Web Full Stack Developer</h3>
+<h3 align="center">Aspiring Software Developer and Web Full Stack Developer</h3>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **React Js, Node js, Express Js, MangoDB**<br/>
