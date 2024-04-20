@@ -73,11 +73,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-
-# 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=rupeshthakur8550&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 # ✍️ Random Dev Quote:
 
 <div align="center">
@@ -85,6 +80,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+# 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=rupeshthakur8550&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
