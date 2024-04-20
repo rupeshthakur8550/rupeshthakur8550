@@ -3,8 +3,8 @@
 
 # 💼 About Me:
 
-- 🌱 Currently honing skills in **React.js, Node.js, Express.js, and MongoDB**.
-- 💬 Feel free to inquire about **JavaScript, React.js, Node.js, Express.js, and Java**.
+- 🌱 Currently honing skills in **React.js, Node.js, Express.js, and MongoDB for web development.**.
+- 💬 Feel free to inquire about **JavaScript, React.js, Node.js, Express.js, JavaScript, and Java with a passion for continuous learninga**.
 - 📫 Reach out to me via email at **rupeshthakur80078@gmail.com**.
 - 📄 Explore my professional journey through my [Resume (Click Here)](https://drive.google.com/file/d/1gEzlbtT03ktG8jvE9MtDG86f4lmMfGMT/view?usp=drive_link).
 - ⚡ Fun fact: **I have a knack for creating a vibrant and refreshing environment**.
