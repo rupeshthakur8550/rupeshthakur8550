@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rupesh Thakur</h1>
 <h3 align="center">Aspiring Software Developer and Web Full Stack Developer</h3>
 
-# 💫 About Me:
-- 🌱 I’m currently learning **React Js, Node js, Express Js, MangoDB**<br/>
-- 💬 Ask me about **React Js, Node Js, Express Js, JavaScript, Java**<br/>
-- 📫 How to reach me **rupeshthakur80078@gmail.com**<br/>
-- 📄 Know about my experiences [Resume Link (Click Here)](https://drive.google.com/file/d/1gEzlbtT03ktG8jvE9MtDG86f4lmMfGMT/view?usp=drive_link)<br/>
-- ⚡ Fun fact **I can make Environment Happy and Fresh**
+# 💼 About Me:
+
+- 🌱 Currently honing skills in **React.js, Node.js, Express.js, and MongoDB**.
+- 💬 Feel free to inquire about **JavaScript, React.js, Node.js, Express.js, and Java**.
+- 📫 Reach out to me via email at **rupeshthakur80078@gmail.com**.
+- 📄 Explore my professional journey through my [Resume (Click Here)](https://drive.google.com/file/d/1gEzlbtT03ktG8jvE9MtDG86f4lmMfGMT/view?usp=drive_link).
+- ⚡ Fun fact: **I have a knack for creating a vibrant and refreshing environment**.
 
 # 📊 GitHub Stats:
 <div align="center">
