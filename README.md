@@ -5,6 +5,7 @@
 
 - 🌱 Currently honing skills in **React.js, Node.js, Express.js, and MongoDB for web development.**.
 - 📫 Reach out to me via email at **rupeshthakur80078@gmail.com**.
+- 📞Reach out to me via phone at **+91-8550948693**.
 - 📄 Explore my professional journey through my [Resume (Click Here)](https://drive.google.com/file/d/1LDbIi4KlfUM0MEzVLeQWEnHXB5WQN5GP/view?usp=drive_link).
 - ⚡ Fun fact: **I have a knack for creating a vibrant and refreshing environment**.
 
