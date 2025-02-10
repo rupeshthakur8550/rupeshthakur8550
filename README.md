@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupesh Thakur</h1>
-<h3 align="center">Aspiring Software Developer and Web Full Stack Developer</h3>
+<h3 align="center">Software Developer and Web Full Stack Developer</h3>
 
 # 💼 About Me:
 
